@@ -1,2 +1,2 @@
-# wowie-
+# wowie
 wow
